@@ -1,8 +1,0 @@
-import java.util.*;
-
-public class Person {
-	
-	public static void main(String[] args) {
-		
-	}
-}
